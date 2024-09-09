@@ -18,6 +18,22 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;   
+    width: 15%;
+    height: auto;
+}
+
+.frame{
+    width: 30%;
+    height: auto;
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.larger{
+    font-size: larger;
 }
 
