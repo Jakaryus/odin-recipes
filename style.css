@@ -4,7 +4,7 @@
 
 .home{
     text-align: center;
-    background-color: white;
+    background-color: rgba(202, 213, 221, 0.87)
     }
 
 .homepage{
@@ -20,6 +20,8 @@
     margin-right: auto;
     width: 15%;
     height: auto;
+    border: solid;
+    
 }
 
 .frame{
@@ -31,6 +33,7 @@
 .bold{
     font-weight: bold;
     font-size: larger;
+    text-align: center;
 }
 
 .larger{
@@ -39,4 +42,22 @@
 
 .backtohomepage{
     text-align: center;
+    font-size: large;
+}
+
+.croque-main,
+.center-main{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: auto;
+    border: solid;
+}
+
+.ingredient{
+    margin-left: 20px;
+    border: none;
+    display: inline-flex;
 }
